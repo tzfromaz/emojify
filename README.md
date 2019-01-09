@@ -1,3 +1,3 @@
-Emojify (1.0)
+# Emojify
 
-This is a Chrome extension that replaces words or phrases on a website with relevant emojis.
+A Chrome extension that replaces words or phrases on a webpage with relevant emojis.
